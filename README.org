@@ -1,11 +1,11 @@
-#+title: lol-status
+#+title: lolpoll
 #+date: [2020-06-22]
 #+author: Richard W.
 #+options: num:nil todo:t toc:t
 * Objective
-- create a service that listens for !commands in a discord channel
-- uses given args to form Riot API request
-- return parsed response to client as discord msg
+- poll https://localhost:2999/liveclientdata/ endpoints as required by app config with riotgames root CA cert
+
+- parse and send output to stdout
 
 * Notes
 
@@ -14,6 +14,19 @@
 - Cargo deps
 - tests/
 - Makefile
-** TODO hack around with Riot API
+** DONE hack around with Riot Game Client
 - rate limit: 20/1s; 100/2m
 - curl it boi
+- docs [[https://developer.riotgames.com/docs/lol][Riot Developer Portal]]
+*** RESULT: success
+- NOT accessible over LAN, only local.
+  - np really, ssh and curl for quick tests
+  - feel like we should implement a wrapper API anyways - with client/server decoupled
+    - future state would likely be a video-stream overlay - most streamers run 2 PCs
+    - would be surprised if some dev hasn't already implemented something like this, just maybe not in Rust 8) - will research
+    - thinkin without the native limitation is fine for now
+- gamedata is NOT spectator-level - local player-level only
+  - when p1 buys item outside of enemy p2 vision, p1 json output value updates, p2 json output does not
+    - TEST AGAIN with gold values
+- we can impl something with [[https://github.com/hatoo/oha][oha]] to validate the rate limits (curious if gamedata limits are different)
+  - work in some ssl-fu
