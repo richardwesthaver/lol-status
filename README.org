@@ -1,0 +1,19 @@
+#+title: lol-status
+#+date: [2020-06-22]
+#+author: Richard W.
+#+options: num:nil todo:t toc:t
+* Objective
+- create a service that listens for !commands in a discord channel
+- uses given args to form Riot API request
+- return parsed response to client as discord msg
+
+* Notes
+
+* Tasks
+** TODO init repo
+- Cargo deps
+- tests/
+- Makefile
+** TODO hack around with Riot API
+- rate limit: 20/1s; 100/2m
+- curl it boi
