@@ -30,3 +30,5 @@
     - TEST AGAIN with gold values
 - we can impl something with [[https://github.com/hatoo/oha][oha]] to validate the rate limits (curious if gamedata limits are different)
   - work in some ssl-fu
+- spectator-mode is fully supported with god-mode stats
+  - useful for model training, maybe W/L 0.-1

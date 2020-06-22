@@ -1,0 +1,1739 @@
+[
+	{
+		"championName": "Nasus",
+		"isBot": false,
+		"isDead": true,
+		"items": [
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Lost Chapter",
+				"itemID": 3802,
+				"price": 80,
+				"rawDescription": "game_item_description_3802",
+				"rawDisplayName": "game_item_displayname_3802",
+				"slot": 0
+			}
+		],
+		"level": 4,
+		"position": "NONE",
+		"rawChampionName": "game_character_displayname_Nasus",
+		"rawSkinName": "game_character_skin_displayname_Nasus_1",
+		"respawnTimer": 7.106565952301025,
+		"runes": {
+			"keystone": {
+				"displayName": "Arcane Comet",
+				"id": 8229,
+				"rawDescription": "perk_tooltip_ArcaneComet",
+				"rawDisplayName": "perk_displayname_ArcaneComet"
+			},
+			"primaryRuneTree": {
+				"displayName": "Sorcery",
+				"id": 8200,
+				"rawDescription": "perkstyle_tooltip_7202",
+				"rawDisplayName": "perkstyle_displayname_7202"
+			},
+			"secondaryRuneTree": {
+				"displayName": "Domination",
+				"id": 8100,
+				"rawDescription": "perkstyle_tooltip_7200",
+				"rawDisplayName": "perkstyle_displayname_7200"
+			}
+		},
+		"scores": {
+			"assists": 0,
+			"creepScore": 0,
+			"deaths": 1,
+			"kills": 0,
+			"wardScore": 0.0
+		},
+		"skinID": 1,
+		"skinName": "Galactic Nasus",
+		"summonerName": "Rossrage72",
+		"summonerSpells": {
+			"summonerSpellOne": {
+				"displayName": "Mark",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerSnowball_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerSnowball_DisplayName"
+			},
+			"summonerSpellTwo": {
+				"displayName": "Flash",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+			}
+		},
+		"team": "ORDER"
+	},
+	{
+		"championName": "Jhin",
+		"isBot": false,
+		"isDead": false,
+		"items": [
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "B. F. Sword",
+				"itemID": 1038,
+				"price": 1300,
+				"rawDescription": "game_item_description_1038",
+				"rawDisplayName": "game_item_displayname_1038",
+				"slot": 0
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 1,
+				"displayName": "Poro-Snax",
+				"itemID": 2052,
+				"price": 0,
+				"rawDescription": "game_item_description_2052",
+				"rawDisplayName": "game_item_displayname_2052",
+				"slot": 6
+			}
+		],
+		"level": 4,
+		"position": "NONE",
+		"rawChampionName": "game_character_displayname_Jhin",
+		"respawnTimer": 0.0,
+		"runes": {
+			"keystone": {
+				"displayName": "Lethal Tempo",
+				"id": 8008,
+				"rawDescription": "perk_tooltip_LethalTempo",
+				"rawDisplayName": "perk_displayname_LethalTempo"
+			},
+			"primaryRuneTree": {
+				"displayName": "Precision",
+				"id": 8000,
+				"rawDescription": "perkstyle_tooltip_7201",
+				"rawDisplayName": "perkstyle_displayname_7201"
+			},
+			"secondaryRuneTree": {
+				"displayName": "Resolve",
+				"id": 8400,
+				"rawDescription": "perkstyle_tooltip_7204",
+				"rawDisplayName": "perkstyle_displayname_7204"
+			}
+		},
+		"scores": {
+			"assists": 0,
+			"creepScore": 0,
+			"deaths": 0,
+			"kills": 0,
+			"wardScore": 0.0
+		},
+		"skinID": 0,
+		"summonerName": "dixy normes",
+		"summonerSpells": {
+			"summonerSpellOne": {
+				"displayName": "Heal",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerHeal_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHeal_DisplayName"
+			},
+			"summonerSpellTwo": {
+				"displayName": "Flash",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+			}
+		},
+		"team": "ORDER"
+	},
+	{
+		"championName": "Braum",
+		"isBot": false,
+		"isDead": false,
+		"items": [
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Guardian's Horn",
+				"itemID": 2051,
+				"price": 950,
+				"rawDescription": "game_item_description_2051",
+				"rawDisplayName": "game_item_displayname_2051",
+				"slot": 0
+			},
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Boots of Speed",
+				"itemID": 1001,
+				"price": 300,
+				"rawDescription": "game_item_description_1001",
+				"rawDisplayName": "game_item_displayname_1001",
+				"slot": 1
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 2,
+				"displayName": "Health Potion",
+				"itemID": 2003,
+				"price": 50,
+				"rawDescription": "game_item_description_2003",
+				"rawDisplayName": "game_item_displayname_2003",
+				"slot": 2
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 2,
+				"displayName": "Poro-Snax",
+				"itemID": 2052,
+				"price": 0,
+				"rawDescription": "game_item_description_2052",
+				"rawDisplayName": "game_item_displayname_2052",
+				"slot": 6
+			}
+		],
+		"level": 4,
+		"position": "NONE",
+		"rawChampionName": "game_character_displayname_Braum",
+		"respawnTimer": 0.0,
+		"runes": {
+			"keystone": {
+				"displayName": "Grasp of the Undying",
+				"id": 8437,
+				"rawDescription": "perk_tooltip_GraspOfTheUndying",
+				"rawDisplayName": "perk_displayname_GraspOfTheUndying"
+			},
+			"primaryRuneTree": {
+				"displayName": "Resolve",
+				"id": 8400,
+				"rawDescription": "perkstyle_tooltip_7204",
+				"rawDisplayName": "perkstyle_displayname_7204"
+			},
+			"secondaryRuneTree": {
+				"displayName": "Domination",
+				"id": 8100,
+				"rawDescription": "perkstyle_tooltip_7200",
+				"rawDisplayName": "perkstyle_displayname_7200"
+			}
+		},
+		"scores": {
+			"assists": 0,
+			"creepScore": 0,
+			"deaths": 0,
+			"kills": 0,
+			"wardScore": 0.0
+		},
+		"skinID": 0,
+		"summonerName": "OCAngel",
+		"summonerSpells": {
+			"summonerSpellOne": {
+				"displayName": "Flash",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+			},
+			"summonerSpellTwo": {
+				"displayName": "Mark",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerSnowball_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerSnowball_DisplayName"
+			}
+		},
+		"team": "ORDER"
+	},
+	{
+		"championName": "Syndra",
+		"isBot": false,
+		"isDead": false,
+		"items": [
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Lost Chapter",
+				"itemID": 3802,
+				"price": 80,
+				"rawDescription": "game_item_description_3802",
+				"rawDisplayName": "game_item_displayname_3802",
+				"slot": 0
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 2,
+				"displayName": "Health Potion",
+				"itemID": 2003,
+				"price": 50,
+				"rawDescription": "game_item_description_2003",
+				"rawDisplayName": "game_item_displayname_2003",
+				"slot": 1
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 1,
+				"displayName": "Poro-Snax",
+				"itemID": 2052,
+				"price": 0,
+				"rawDescription": "game_item_description_2052",
+				"rawDisplayName": "game_item_displayname_2052",
+				"slot": 6
+			}
+		],
+		"level": 4,
+		"position": "NONE",
+		"rawChampionName": "game_character_displayname_Syndra",
+		"rawSkinName": "game_character_skin_displayname_Syndra_6",
+		"respawnTimer": 0.0,
+		"runes": {
+			"keystone": {
+				"displayName": "Electrocute",
+				"id": 8112,
+				"rawDescription": "perk_tooltip_Electrocute",
+				"rawDisplayName": "perk_displayname_Electrocute"
+			},
+			"primaryRuneTree": {
+				"displayName": "Domination",
+				"id": 8100,
+				"rawDescription": "perkstyle_tooltip_7200",
+				"rawDisplayName": "perkstyle_displayname_7200"
+			},
+			"secondaryRuneTree": {
+				"displayName": "Sorcery",
+				"id": 8200,
+				"rawDescription": "perkstyle_tooltip_7202",
+				"rawDisplayName": "perkstyle_displayname_7202"
+			}
+		},
+		"scores": {
+			"assists": 0,
+			"creepScore": 0,
+			"deaths": 0,
+			"kills": 0,
+			"wardScore": 0.0
+		},
+		"skinID": 6,
+		"skinName": "Star Guardian Syndra",
+		"summonerName": "LCdashixiong",
+		"summonerSpells": {
+			"summonerSpellOne": {
+				"displayName": "Flash",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+			},
+			"summonerSpellTwo": {
+				"displayName": "Heal",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerHeal_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHeal_DisplayName"
+			}
+		},
+		"team": "ORDER"
+	},
+	{
+		"championName": "Udyr",
+		"isBot": false,
+		"isDead": false,
+		"items": [
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Guardian's Horn",
+				"itemID": 2051,
+				"price": 950,
+				"rawDescription": "game_item_description_2051",
+				"rawDisplayName": "game_item_displayname_2051",
+				"slot": 0
+			},
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Ruby Crystal",
+				"itemID": 1028,
+				"price": 400,
+				"rawDescription": "game_item_description_1028",
+				"rawDisplayName": "game_item_displayname_1028",
+				"slot": 1
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 1,
+				"displayName": "Poro-Snax",
+				"itemID": 2052,
+				"price": 0,
+				"rawDescription": "game_item_description_2052",
+				"rawDisplayName": "game_item_displayname_2052",
+				"slot": 6
+			}
+		],
+		"level": 4,
+		"position": "NONE",
+		"rawChampionName": "game_character_displayname_Udyr",
+		"respawnTimer": 0.0,
+		"runes": {
+			"keystone": {
+				"displayName": "Conqueror",
+				"id": 8010,
+				"rawDescription": "perk_tooltip_Conqueror",
+				"rawDisplayName": "perk_displayname_Conqueror"
+			},
+			"primaryRuneTree": {
+				"displayName": "Precision",
+				"id": 8000,
+				"rawDescription": "perkstyle_tooltip_7201",
+				"rawDisplayName": "perkstyle_displayname_7201"
+			},
+			"secondaryRuneTree": {
+				"displayName": "Domination",
+				"id": 8100,
+				"rawDescription": "perkstyle_tooltip_7200",
+				"rawDisplayName": "perkstyle_displayname_7200"
+			}
+		},
+		"scores": {
+			"assists": 0,
+			"creepScore": 0,
+			"deaths": 0,
+			"kills": 0,
+			"wardScore": 0.0
+		},
+		"skinID": 0,
+		"summonerName": "Ashesofanangel",
+		"summonerSpells": {
+			"summonerSpellOne": {
+				"displayName": "Mark",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerSnowball_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerSnowball_DisplayName"
+			},
+			"summonerSpellTwo": {
+				"displayName": "Flash",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+			}
+		},
+		"team": "ORDER"
+	},
+	{
+		"championName": "Yasuo",
+		"isBot": false,
+		"isDead": false,
+		"items": [
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Guardian's Hammer",
+				"itemID": 3184,
+				"price": 950,
+				"rawDescription": "game_item_description_3184",
+				"rawDisplayName": "game_item_displayname_3184",
+				"slot": 0
+			},
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Boots of Speed",
+				"itemID": 1001,
+				"price": 300,
+				"rawDescription": "game_item_description_1001",
+				"rawDisplayName": "game_item_displayname_1001",
+				"slot": 1
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 1,
+				"displayName": "Health Potion",
+				"itemID": 2003,
+				"price": 50,
+				"rawDescription": "game_item_description_2003",
+				"rawDisplayName": "game_item_displayname_2003",
+				"slot": 2
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 1,
+				"displayName": "Poro-Snax",
+				"itemID": 2052,
+				"price": 0,
+				"rawDescription": "game_item_description_2052",
+				"rawDisplayName": "game_item_displayname_2052",
+				"slot": 6
+			}
+		],
+		"level": 4,
+		"position": "NONE",
+		"rawChampionName": "game_character_displayname_Yasuo",
+		"respawnTimer": 0.0,
+		"runes": {
+			"keystone": {
+				"displayName": "Conqueror",
+				"id": 8010,
+				"rawDescription": "perk_tooltip_Conqueror",
+				"rawDisplayName": "perk_displayname_Conqueror"
+			},
+			"primaryRuneTree": {
+				"displayName": "Precision",
+				"id": 8000,
+				"rawDescription": "perkstyle_tooltip_7201",
+				"rawDisplayName": "perkstyle_displayname_7201"
+			},
+			"secondaryRuneTree": {
+				"displayName": "Domination",
+				"id": 8100,
+				"rawDescription": "perkstyle_tooltip_7200",
+				"rawDisplayName": "perkstyle_displayname_7200"
+			}
+		},
+		"scores": {
+			"assists": 0,
+			"creepScore": 0,
+			"deaths": 0,
+			"kills": 0,
+			"wardScore": 0.0
+		},
+		"skinID": 0,
+		"summonerName": "EF Sorcey10",
+		"summonerSpells": {
+			"summonerSpellOne": {
+				"displayName": "Flash",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+			},
+			"summonerSpellTwo": {
+				"displayName": "Heal",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerHeal_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHeal_DisplayName"
+			}
+		},
+		"team": "CHAOS"
+	},
+	{
+		"championName": "Kai'Sa",
+		"isBot": false,
+		"isDead": false,
+		"items": [
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "B. F. Sword",
+				"itemID": 1038,
+				"price": 1300,
+				"rawDescription": "game_item_description_1038",
+				"rawDisplayName": "game_item_displayname_1038",
+				"slot": 0
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 2,
+				"displayName": "Health Potion",
+				"itemID": 2003,
+				"price": 50,
+				"rawDescription": "game_item_description_2003",
+				"rawDisplayName": "game_item_displayname_2003",
+				"slot": 1
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 1,
+				"displayName": "Poro-Snax",
+				"itemID": 2052,
+				"price": 0,
+				"rawDescription": "game_item_description_2052",
+				"rawDisplayName": "game_item_displayname_2052",
+				"slot": 6
+			}
+		],
+		"level": 4,
+		"position": "NONE",
+		"rawChampionName": "game_character_displayname_Kaisa",
+		"respawnTimer": 0.0,
+		"runes": {
+			"keystone": {
+				"displayName": "Hail of Blades",
+				"id": 9923,
+				"rawDescription": "perk_tooltip_HailOfBlades",
+				"rawDisplayName": "perk_displayname_HailOfBlades"
+			},
+			"primaryRuneTree": {
+				"displayName": "Domination",
+				"id": 8100,
+				"rawDescription": "perkstyle_tooltip_7200",
+				"rawDisplayName": "perkstyle_displayname_7200"
+			},
+			"secondaryRuneTree": {
+				"displayName": "Precision",
+				"id": 8000,
+				"rawDescription": "perkstyle_tooltip_7201",
+				"rawDisplayName": "perkstyle_displayname_7201"
+			}
+		},
+		"scores": {
+			"assists": 1,
+			"creepScore": 0,
+			"deaths": 0,
+			"kills": 0,
+			"wardScore": 0.0
+		},
+		"skinID": 0,
+		"summonerName": "darklord183",
+		"summonerSpells": {
+			"summonerSpellOne": {
+				"displayName": "Heal",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerHeal_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHeal_DisplayName"
+			},
+			"summonerSpellTwo": {
+				"displayName": "Flash",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+			}
+		},
+		"team": "CHAOS"
+	},
+	{
+		"championName": "Lulu",
+		"isBot": false,
+		"isDead": false,
+		"items": [
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Berserker's Greaves",
+				"itemID": 3006,
+				"price": 500,
+				"rawDescription": "game_item_description_3006",
+				"rawDisplayName": "game_item_displayname_3006",
+				"slot": 0
+			},
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Dagger",
+				"itemID": 1042,
+				"price": 300,
+				"rawDescription": "game_item_description_1042",
+				"rawDisplayName": "game_item_displayname_1042",
+				"slot": 1
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 1,
+				"displayName": "Poro-Snax",
+				"itemID": 2052,
+				"price": 0,
+				"rawDescription": "game_item_description_2052",
+				"rawDisplayName": "game_item_displayname_2052",
+				"slot": 6
+			}
+		],
+		"level": 4,
+		"position": "NONE",
+		"rawChampionName": "game_character_displayname_Lulu",
+		"rawSkinName": "game_character_skin_displayname_Lulu_14",
+		"respawnTimer": 0.0,
+		"runes": {
+			"keystone": {
+				"displayName": "Lethal Tempo",
+				"id": 8008,
+				"rawDescription": "perk_tooltip_LethalTempo",
+				"rawDisplayName": "perk_displayname_LethalTempo"
+			},
+			"primaryRuneTree": {
+				"displayName": "Precision",
+				"id": 8000,
+				"rawDescription": "perkstyle_tooltip_7201",
+				"rawDisplayName": "perkstyle_displayname_7201"
+			},
+			"secondaryRuneTree": {
+				"displayName": "Domination",
+				"id": 8100,
+				"rawDescription": "perkstyle_tooltip_7200",
+				"rawDisplayName": "perkstyle_displayname_7200"
+			}
+		},
+		"scores": {
+			"assists": 0,
+			"creepScore": 0,
+			"deaths": 0,
+			"kills": 0,
+			"wardScore": 0.0
+		},
+		"skinID": 14,
+		"skinName": "Cosmic Enchantress Lulu",
+		"summonerName": "Kennistheman",
+		"summonerSpells": {
+			"summonerSpellOne": {
+				"displayName": "Flash",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+			},
+			"summonerSpellTwo": {
+				"displayName": "Mark",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerSnowball_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerSnowball_DisplayName"
+			}
+		},
+		"team": "CHAOS"
+	},
+	{
+		"championName": "Gangplank",
+		"isBot": false,
+		"isDead": false,
+		"items": [
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Sheen",
+				"itemID": 3057,
+				"price": 700,
+				"rawDescription": "game_item_description_3057",
+				"rawDisplayName": "game_item_displayname_3057",
+				"slot": 0
+			},
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Boots of Speed",
+				"itemID": 1001,
+				"price": 300,
+				"rawDescription": "game_item_description_1001",
+				"rawDisplayName": "game_item_displayname_1001",
+				"slot": 1
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 1,
+				"displayName": "Poro-Snax",
+				"itemID": 2052,
+				"price": 0,
+				"rawDescription": "game_item_description_2052",
+				"rawDisplayName": "game_item_displayname_2052",
+				"slot": 6
+			}
+		],
+		"level": 4,
+		"position": "NONE",
+		"rawChampionName": "game_character_displayname_Gangplank",
+		"rawSkinName": "game_character_skin_displayname_Gangplank_21",
+		"respawnTimer": 0.0,
+		"runes": {
+			"keystone": {
+				"displayName": "Dark Harvest",
+				"id": 8128,
+				"rawDescription": "perk_tooltip_DarkHarvest",
+				"rawDisplayName": "perk_displayname_DarkHarvest"
+			},
+			"primaryRuneTree": {
+				"displayName": "Domination",
+				"id": 8100,
+				"rawDescription": "perkstyle_tooltip_7200",
+				"rawDisplayName": "perkstyle_displayname_7200"
+			},
+			"secondaryRuneTree": {
+				"displayName": "Sorcery",
+				"id": 8200,
+				"rawDescription": "perkstyle_tooltip_7202",
+				"rawDisplayName": "perkstyle_displayname_7202"
+			}
+		},
+		"scores": {
+			"assists": 1,
+			"creepScore": 0,
+			"deaths": 0,
+			"kills": 0,
+			"wardScore": 0.0
+		},
+		"skinID": 21,
+		"skinName": "FPX Gangplank",
+		"summonerName": "Rafiki555",
+		"summonerSpells": {
+			"summonerSpellOne": {
+				"displayName": "Flash",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+			},
+			"summonerSpellTwo": {
+				"displayName": "Clarity",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerMana_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerMana_DisplayName"
+			}
+		},
+		"team": "CHAOS"
+	},
+	{
+		"championName": "Ezreal",
+		"isBot": false,
+		"isDead": false,
+		"items": [
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Tear of the Goddess (Quick Charge)",
+				"itemID": 3073,
+				"price": 375,
+				"rawDescription": "game_item_description_3073",
+				"rawDisplayName": "game_item_displayname_3073",
+				"slot": 0
+			},
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Long Sword",
+				"itemID": 1036,
+				"price": 350,
+				"rawDescription": "game_item_description_1036",
+				"rawDisplayName": "game_item_displayname_1036",
+				"slot": 1
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 4,
+				"displayName": "Health Potion",
+				"itemID": 2003,
+				"price": 50,
+				"rawDescription": "game_item_description_2003",
+				"rawDisplayName": "game_item_displayname_2003",
+				"slot": 2
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 1,
+				"displayName": "Poro-Snax",
+				"itemID": 2052,
+				"price": 0,
+				"rawDescription": "game_item_description_2052",
+				"rawDisplayName": "game_item_displayname_2052",
+				"slot": 6
+			}
+		],
+		"level": 4,
+		"position": "NONE",
+		"rawChampionName": "game_character_displayname_Ezreal",
+		"respawnTimer": 0.0,
+		"runes": {
+			"keystone": {
+				"displayName": "Conqueror",
+				"id": 8010,
+				"rawDescription": "perk_tooltip_Conqueror",
+				"rawDisplayName": "perk_displayname_Conqueror"
+			},
+			"primaryRuneTree": {
+				"displayName": "Precision",
+				"id": 8000,
+				"rawDescription": "perkstyle_tooltip_7201",
+				"rawDisplayName": "perkstyle_displayname_7201"
+			},
+			"secondaryRuneTree": {
+				"displayName": "Sorcery",
+				"id": 8200,
+				"rawDescription": "perkstyle_tooltip_7202",
+				"rawDisplayName": "perkstyle_displayname_7202"
+			}
+		},
+		"scores": {
+			"assists": 0,
+			"creepScore": 0,
+			"deaths": 0,
+			"kills": 1,
+			"wardScore": 0.0
+		},
+		"skinID": 0,
+		"summonerName": "2PLDN",
+		"summonerSpells": {
+			"summonerSpellOne": {
+				"displayName": "Clarity",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerMana_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerMana_DisplayName"
+			},
+			"summonerSpellTwo": {
+				"displayName": "Flash",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+			}
+		},
+		"team": "CHAOS"
+	}
+][
+	{
+		"championName": "Nasus",
+		"isBot": false,
+		"isDead": true,
+		"items": [
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Lost Chapter",
+				"itemID": 3802,
+				"price": 80,
+				"rawDescription": "game_item_description_3802",
+				"rawDisplayName": "game_item_displayname_3802",
+				"slot": 0
+			}
+		],
+		"level": 4,
+		"position": "NONE",
+		"rawChampionName": "game_character_displayname_Nasus",
+		"rawSkinName": "game_character_skin_displayname_Nasus_1",
+		"respawnTimer": 7.106565952301025,
+		"runes": {
+			"keystone": {
+				"displayName": "Arcane Comet",
+				"id": 8229,
+				"rawDescription": "perk_tooltip_ArcaneComet",
+				"rawDisplayName": "perk_displayname_ArcaneComet"
+			},
+			"primaryRuneTree": {
+				"displayName": "Sorcery",
+				"id": 8200,
+				"rawDescription": "perkstyle_tooltip_7202",
+				"rawDisplayName": "perkstyle_displayname_7202"
+			},
+			"secondaryRuneTree": {
+				"displayName": "Domination",
+				"id": 8100,
+				"rawDescription": "perkstyle_tooltip_7200",
+				"rawDisplayName": "perkstyle_displayname_7200"
+			}
+		},
+		"scores": {
+			"assists": 0,
+			"creepScore": 0,
+			"deaths": 1,
+			"kills": 0,
+			"wardScore": 0.0
+		},
+		"skinID": 1,
+		"skinName": "Galactic Nasus",
+		"summonerName": "Rossrage72",
+		"summonerSpells": {
+			"summonerSpellOne": {
+				"displayName": "Mark",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerSnowball_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerSnowball_DisplayName"
+			},
+			"summonerSpellTwo": {
+				"displayName": "Flash",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+			}
+		},
+		"team": "ORDER"
+	},
+	{
+		"championName": "Jhin",
+		"isBot": false,
+		"isDead": false,
+		"items": [
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "B. F. Sword",
+				"itemID": 1038,
+				"price": 1300,
+				"rawDescription": "game_item_description_1038",
+				"rawDisplayName": "game_item_displayname_1038",
+				"slot": 0
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 1,
+				"displayName": "Poro-Snax",
+				"itemID": 2052,
+				"price": 0,
+				"rawDescription": "game_item_description_2052",
+				"rawDisplayName": "game_item_displayname_2052",
+				"slot": 6
+			}
+		],
+		"level": 4,
+		"position": "NONE",
+		"rawChampionName": "game_character_displayname_Jhin",
+		"respawnTimer": 0.0,
+		"runes": {
+			"keystone": {
+				"displayName": "Lethal Tempo",
+				"id": 8008,
+				"rawDescription": "perk_tooltip_LethalTempo",
+				"rawDisplayName": "perk_displayname_LethalTempo"
+			},
+			"primaryRuneTree": {
+				"displayName": "Precision",
+				"id": 8000,
+				"rawDescription": "perkstyle_tooltip_7201",
+				"rawDisplayName": "perkstyle_displayname_7201"
+			},
+			"secondaryRuneTree": {
+				"displayName": "Resolve",
+				"id": 8400,
+				"rawDescription": "perkstyle_tooltip_7204",
+				"rawDisplayName": "perkstyle_displayname_7204"
+			}
+		},
+		"scores": {
+			"assists": 0,
+			"creepScore": 0,
+			"deaths": 0,
+			"kills": 0,
+			"wardScore": 0.0
+		},
+		"skinID": 0,
+		"summonerName": "dixy normes",
+		"summonerSpells": {
+			"summonerSpellOne": {
+				"displayName": "Heal",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerHeal_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHeal_DisplayName"
+			},
+			"summonerSpellTwo": {
+				"displayName": "Flash",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+			}
+		},
+		"team": "ORDER"
+	},
+	{
+		"championName": "Braum",
+		"isBot": false,
+		"isDead": false,
+		"items": [
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Guardian's Horn",
+				"itemID": 2051,
+				"price": 950,
+				"rawDescription": "game_item_description_2051",
+				"rawDisplayName": "game_item_displayname_2051",
+				"slot": 0
+			},
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Boots of Speed",
+				"itemID": 1001,
+				"price": 300,
+				"rawDescription": "game_item_description_1001",
+				"rawDisplayName": "game_item_displayname_1001",
+				"slot": 1
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 2,
+				"displayName": "Health Potion",
+				"itemID": 2003,
+				"price": 50,
+				"rawDescription": "game_item_description_2003",
+				"rawDisplayName": "game_item_displayname_2003",
+				"slot": 2
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 2,
+				"displayName": "Poro-Snax",
+				"itemID": 2052,
+				"price": 0,
+				"rawDescription": "game_item_description_2052",
+				"rawDisplayName": "game_item_displayname_2052",
+				"slot": 6
+			}
+		],
+		"level": 4,
+		"position": "NONE",
+		"rawChampionName": "game_character_displayname_Braum",
+		"respawnTimer": 0.0,
+		"runes": {
+			"keystone": {
+				"displayName": "Grasp of the Undying",
+				"id": 8437,
+				"rawDescription": "perk_tooltip_GraspOfTheUndying",
+				"rawDisplayName": "perk_displayname_GraspOfTheUndying"
+			},
+			"primaryRuneTree": {
+				"displayName": "Resolve",
+				"id": 8400,
+				"rawDescription": "perkstyle_tooltip_7204",
+				"rawDisplayName": "perkstyle_displayname_7204"
+			},
+			"secondaryRuneTree": {
+				"displayName": "Domination",
+				"id": 8100,
+				"rawDescription": "perkstyle_tooltip_7200",
+				"rawDisplayName": "perkstyle_displayname_7200"
+			}
+		},
+		"scores": {
+			"assists": 0,
+			"creepScore": 0,
+			"deaths": 0,
+			"kills": 0,
+			"wardScore": 0.0
+		},
+		"skinID": 0,
+		"summonerName": "OCAngel",
+		"summonerSpells": {
+			"summonerSpellOne": {
+				"displayName": "Flash",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+			},
+			"summonerSpellTwo": {
+				"displayName": "Mark",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerSnowball_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerSnowball_DisplayName"
+			}
+		},
+		"team": "ORDER"
+	},
+	{
+		"championName": "Syndra",
+		"isBot": false,
+		"isDead": false,
+		"items": [
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Lost Chapter",
+				"itemID": 3802,
+				"price": 80,
+				"rawDescription": "game_item_description_3802",
+				"rawDisplayName": "game_item_displayname_3802",
+				"slot": 0
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 2,
+				"displayName": "Health Potion",
+				"itemID": 2003,
+				"price": 50,
+				"rawDescription": "game_item_description_2003",
+				"rawDisplayName": "game_item_displayname_2003",
+				"slot": 1
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 1,
+				"displayName": "Poro-Snax",
+				"itemID": 2052,
+				"price": 0,
+				"rawDescription": "game_item_description_2052",
+				"rawDisplayName": "game_item_displayname_2052",
+				"slot": 6
+			}
+		],
+		"level": 4,
+		"position": "NONE",
+		"rawChampionName": "game_character_displayname_Syndra",
+		"rawSkinName": "game_character_skin_displayname_Syndra_6",
+		"respawnTimer": 0.0,
+		"runes": {
+			"keystone": {
+				"displayName": "Electrocute",
+				"id": 8112,
+				"rawDescription": "perk_tooltip_Electrocute",
+				"rawDisplayName": "perk_displayname_Electrocute"
+			},
+			"primaryRuneTree": {
+				"displayName": "Domination",
+				"id": 8100,
+				"rawDescription": "perkstyle_tooltip_7200",
+				"rawDisplayName": "perkstyle_displayname_7200"
+			},
+			"secondaryRuneTree": {
+				"displayName": "Sorcery",
+				"id": 8200,
+				"rawDescription": "perkstyle_tooltip_7202",
+				"rawDisplayName": "perkstyle_displayname_7202"
+			}
+		},
+		"scores": {
+			"assists": 0,
+			"creepScore": 0,
+			"deaths": 0,
+			"kills": 0,
+			"wardScore": 0.0
+		},
+		"skinID": 6,
+		"skinName": "Star Guardian Syndra",
+		"summonerName": "LCdashixiong",
+		"summonerSpells": {
+			"summonerSpellOne": {
+				"displayName": "Flash",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+			},
+			"summonerSpellTwo": {
+				"displayName": "Heal",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerHeal_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHeal_DisplayName"
+			}
+		},
+		"team": "ORDER"
+	},
+	{
+		"championName": "Udyr",
+		"isBot": false,
+		"isDead": false,
+		"items": [
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Guardian's Horn",
+				"itemID": 2051,
+				"price": 950,
+				"rawDescription": "game_item_description_2051",
+				"rawDisplayName": "game_item_displayname_2051",
+				"slot": 0
+			},
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Ruby Crystal",
+				"itemID": 1028,
+				"price": 400,
+				"rawDescription": "game_item_description_1028",
+				"rawDisplayName": "game_item_displayname_1028",
+				"slot": 1
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 1,
+				"displayName": "Poro-Snax",
+				"itemID": 2052,
+				"price": 0,
+				"rawDescription": "game_item_description_2052",
+				"rawDisplayName": "game_item_displayname_2052",
+				"slot": 6
+			}
+		],
+		"level": 4,
+		"position": "NONE",
+		"rawChampionName": "game_character_displayname_Udyr",
+		"respawnTimer": 0.0,
+		"runes": {
+			"keystone": {
+				"displayName": "Conqueror",
+				"id": 8010,
+				"rawDescription": "perk_tooltip_Conqueror",
+				"rawDisplayName": "perk_displayname_Conqueror"
+			},
+			"primaryRuneTree": {
+				"displayName": "Precision",
+				"id": 8000,
+				"rawDescription": "perkstyle_tooltip_7201",
+				"rawDisplayName": "perkstyle_displayname_7201"
+			},
+			"secondaryRuneTree": {
+				"displayName": "Domination",
+				"id": 8100,
+				"rawDescription": "perkstyle_tooltip_7200",
+				"rawDisplayName": "perkstyle_displayname_7200"
+			}
+		},
+		"scores": {
+			"assists": 0,
+			"creepScore": 0,
+			"deaths": 0,
+			"kills": 0,
+			"wardScore": 0.0
+		},
+		"skinID": 0,
+		"summonerName": "Ashesofanangel",
+		"summonerSpells": {
+			"summonerSpellOne": {
+				"displayName": "Mark",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerSnowball_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerSnowball_DisplayName"
+			},
+			"summonerSpellTwo": {
+				"displayName": "Flash",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+			}
+		},
+		"team": "ORDER"
+	},
+	{
+		"championName": "Yasuo",
+		"isBot": false,
+		"isDead": false,
+		"items": [
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Guardian's Hammer",
+				"itemID": 3184,
+				"price": 950,
+				"rawDescription": "game_item_description_3184",
+				"rawDisplayName": "game_item_displayname_3184",
+				"slot": 0
+			},
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Boots of Speed",
+				"itemID": 1001,
+				"price": 300,
+				"rawDescription": "game_item_description_1001",
+				"rawDisplayName": "game_item_displayname_1001",
+				"slot": 1
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 1,
+				"displayName": "Health Potion",
+				"itemID": 2003,
+				"price": 50,
+				"rawDescription": "game_item_description_2003",
+				"rawDisplayName": "game_item_displayname_2003",
+				"slot": 2
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 1,
+				"displayName": "Poro-Snax",
+				"itemID": 2052,
+				"price": 0,
+				"rawDescription": "game_item_description_2052",
+				"rawDisplayName": "game_item_displayname_2052",
+				"slot": 6
+			}
+		],
+		"level": 4,
+		"position": "NONE",
+		"rawChampionName": "game_character_displayname_Yasuo",
+		"respawnTimer": 0.0,
+		"runes": {
+			"keystone": {
+				"displayName": "Conqueror",
+				"id": 8010,
+				"rawDescription": "perk_tooltip_Conqueror",
+				"rawDisplayName": "perk_displayname_Conqueror"
+			},
+			"primaryRuneTree": {
+				"displayName": "Precision",
+				"id": 8000,
+				"rawDescription": "perkstyle_tooltip_7201",
+				"rawDisplayName": "perkstyle_displayname_7201"
+			},
+			"secondaryRuneTree": {
+				"displayName": "Domination",
+				"id": 8100,
+				"rawDescription": "perkstyle_tooltip_7200",
+				"rawDisplayName": "perkstyle_displayname_7200"
+			}
+		},
+		"scores": {
+			"assists": 0,
+			"creepScore": 0,
+			"deaths": 0,
+			"kills": 0,
+			"wardScore": 0.0
+		},
+		"skinID": 0,
+		"summonerName": "EF Sorcey10",
+		"summonerSpells": {
+			"summonerSpellOne": {
+				"displayName": "Flash",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+			},
+			"summonerSpellTwo": {
+				"displayName": "Heal",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerHeal_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHeal_DisplayName"
+			}
+		},
+		"team": "CHAOS"
+	},
+	{
+		"championName": "Kai'Sa",
+		"isBot": false,
+		"isDead": false,
+		"items": [
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "B. F. Sword",
+				"itemID": 1038,
+				"price": 1300,
+				"rawDescription": "game_item_description_1038",
+				"rawDisplayName": "game_item_displayname_1038",
+				"slot": 0
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 2,
+				"displayName": "Health Potion",
+				"itemID": 2003,
+				"price": 50,
+				"rawDescription": "game_item_description_2003",
+				"rawDisplayName": "game_item_displayname_2003",
+				"slot": 1
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 1,
+				"displayName": "Poro-Snax",
+				"itemID": 2052,
+				"price": 0,
+				"rawDescription": "game_item_description_2052",
+				"rawDisplayName": "game_item_displayname_2052",
+				"slot": 6
+			}
+		],
+		"level": 4,
+		"position": "NONE",
+		"rawChampionName": "game_character_displayname_Kaisa",
+		"respawnTimer": 0.0,
+		"runes": {
+			"keystone": {
+				"displayName": "Hail of Blades",
+				"id": 9923,
+				"rawDescription": "perk_tooltip_HailOfBlades",
+				"rawDisplayName": "perk_displayname_HailOfBlades"
+			},
+			"primaryRuneTree": {
+				"displayName": "Domination",
+				"id": 8100,
+				"rawDescription": "perkstyle_tooltip_7200",
+				"rawDisplayName": "perkstyle_displayname_7200"
+			},
+			"secondaryRuneTree": {
+				"displayName": "Precision",
+				"id": 8000,
+				"rawDescription": "perkstyle_tooltip_7201",
+				"rawDisplayName": "perkstyle_displayname_7201"
+			}
+		},
+		"scores": {
+			"assists": 1,
+			"creepScore": 0,
+			"deaths": 0,
+			"kills": 0,
+			"wardScore": 0.0
+		},
+		"skinID": 0,
+		"summonerName": "darklord183",
+		"summonerSpells": {
+			"summonerSpellOne": {
+				"displayName": "Heal",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerHeal_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHeal_DisplayName"
+			},
+			"summonerSpellTwo": {
+				"displayName": "Flash",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+			}
+		},
+		"team": "CHAOS"
+	},
+	{
+		"championName": "Lulu",
+		"isBot": false,
+		"isDead": false,
+		"items": [
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Berserker's Greaves",
+				"itemID": 3006,
+				"price": 500,
+				"rawDescription": "game_item_description_3006",
+				"rawDisplayName": "game_item_displayname_3006",
+				"slot": 0
+			},
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Dagger",
+				"itemID": 1042,
+				"price": 300,
+				"rawDescription": "game_item_description_1042",
+				"rawDisplayName": "game_item_displayname_1042",
+				"slot": 1
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 1,
+				"displayName": "Poro-Snax",
+				"itemID": 2052,
+				"price": 0,
+				"rawDescription": "game_item_description_2052",
+				"rawDisplayName": "game_item_displayname_2052",
+				"slot": 6
+			}
+		],
+		"level": 4,
+		"position": "NONE",
+		"rawChampionName": "game_character_displayname_Lulu",
+		"rawSkinName": "game_character_skin_displayname_Lulu_14",
+		"respawnTimer": 0.0,
+		"runes": {
+			"keystone": {
+				"displayName": "Lethal Tempo",
+				"id": 8008,
+				"rawDescription": "perk_tooltip_LethalTempo",
+				"rawDisplayName": "perk_displayname_LethalTempo"
+			},
+			"primaryRuneTree": {
+				"displayName": "Precision",
+				"id": 8000,
+				"rawDescription": "perkstyle_tooltip_7201",
+				"rawDisplayName": "perkstyle_displayname_7201"
+			},
+			"secondaryRuneTree": {
+				"displayName": "Domination",
+				"id": 8100,
+				"rawDescription": "perkstyle_tooltip_7200",
+				"rawDisplayName": "perkstyle_displayname_7200"
+			}
+		},
+		"scores": {
+			"assists": 0,
+			"creepScore": 0,
+			"deaths": 0,
+			"kills": 0,
+			"wardScore": 0.0
+		},
+		"skinID": 14,
+		"skinName": "Cosmic Enchantress Lulu",
+		"summonerName": "Kennistheman",
+		"summonerSpells": {
+			"summonerSpellOne": {
+				"displayName": "Flash",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+			},
+			"summonerSpellTwo": {
+				"displayName": "Mark",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerSnowball_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerSnowball_DisplayName"
+			}
+		},
+		"team": "CHAOS"
+	},
+	{
+		"championName": "Gangplank",
+		"isBot": false,
+		"isDead": false,
+		"items": [
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Sheen",
+				"itemID": 3057,
+				"price": 700,
+				"rawDescription": "game_item_description_3057",
+				"rawDisplayName": "game_item_displayname_3057",
+				"slot": 0
+			},
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Boots of Speed",
+				"itemID": 1001,
+				"price": 300,
+				"rawDescription": "game_item_description_1001",
+				"rawDisplayName": "game_item_displayname_1001",
+				"slot": 1
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 1,
+				"displayName": "Poro-Snax",
+				"itemID": 2052,
+				"price": 0,
+				"rawDescription": "game_item_description_2052",
+				"rawDisplayName": "game_item_displayname_2052",
+				"slot": 6
+			}
+		],
+		"level": 4,
+		"position": "NONE",
+		"rawChampionName": "game_character_displayname_Gangplank",
+		"rawSkinName": "game_character_skin_displayname_Gangplank_21",
+		"respawnTimer": 0.0,
+		"runes": {
+			"keystone": {
+				"displayName": "Dark Harvest",
+				"id": 8128,
+				"rawDescription": "perk_tooltip_DarkHarvest",
+				"rawDisplayName": "perk_displayname_DarkHarvest"
+			},
+			"primaryRuneTree": {
+				"displayName": "Domination",
+				"id": 8100,
+				"rawDescription": "perkstyle_tooltip_7200",
+				"rawDisplayName": "perkstyle_displayname_7200"
+			},
+			"secondaryRuneTree": {
+				"displayName": "Sorcery",
+				"id": 8200,
+				"rawDescription": "perkstyle_tooltip_7202",
+				"rawDisplayName": "perkstyle_displayname_7202"
+			}
+		},
+		"scores": {
+			"assists": 1,
+			"creepScore": 0,
+			"deaths": 0,
+			"kills": 0,
+			"wardScore": 0.0
+		},
+		"skinID": 21,
+		"skinName": "FPX Gangplank",
+		"summonerName": "Rafiki555",
+		"summonerSpells": {
+			"summonerSpellOne": {
+				"displayName": "Flash",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+			},
+			"summonerSpellTwo": {
+				"displayName": "Clarity",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerMana_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerMana_DisplayName"
+			}
+		},
+		"team": "CHAOS"
+	},
+	{
+		"championName": "Ezreal",
+		"isBot": false,
+		"isDead": false,
+		"items": [
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Tear of the Goddess (Quick Charge)",
+				"itemID": 3073,
+				"price": 375,
+				"rawDescription": "game_item_description_3073",
+				"rawDisplayName": "game_item_displayname_3073",
+				"slot": 0
+			},
+			{
+				"canUse": false,
+				"consumable": false,
+				"count": 1,
+				"displayName": "Long Sword",
+				"itemID": 1036,
+				"price": 350,
+				"rawDescription": "game_item_description_1036",
+				"rawDisplayName": "game_item_displayname_1036",
+				"slot": 1
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 4,
+				"displayName": "Health Potion",
+				"itemID": 2003,
+				"price": 50,
+				"rawDescription": "game_item_description_2003",
+				"rawDisplayName": "game_item_displayname_2003",
+				"slot": 2
+			},
+			{
+				"canUse": true,
+				"consumable": true,
+				"count": 1,
+				"displayName": "Poro-Snax",
+				"itemID": 2052,
+				"price": 0,
+				"rawDescription": "game_item_description_2052",
+				"rawDisplayName": "game_item_displayname_2052",
+				"slot": 6
+			}
+		],
+		"level": 4,
+		"position": "NONE",
+		"rawChampionName": "game_character_displayname_Ezreal",
+		"respawnTimer": 0.0,
+		"runes": {
+			"keystone": {
+				"displayName": "Conqueror",
+				"id": 8010,
+				"rawDescription": "perk_tooltip_Conqueror",
+				"rawDisplayName": "perk_displayname_Conqueror"
+			},
+			"primaryRuneTree": {
+				"displayName": "Precision",
+				"id": 8000,
+				"rawDescription": "perkstyle_tooltip_7201",
+				"rawDisplayName": "perkstyle_displayname_7201"
+			},
+			"secondaryRuneTree": {
+				"displayName": "Sorcery",
+				"id": 8200,
+				"rawDescription": "perkstyle_tooltip_7202",
+				"rawDisplayName": "perkstyle_displayname_7202"
+			}
+		},
+		"scores": {
+			"assists": 0,
+			"creepScore": 0,
+			"deaths": 0,
+			"kills": 1,
+			"wardScore": 0.0
+		},
+		"skinID": 0,
+		"summonerName": "2PLDN",
+		"summonerSpells": {
+			"summonerSpellOne": {
+				"displayName": "Clarity",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerMana_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerMana_DisplayName"
+			},
+			"summonerSpellTwo": {
+				"displayName": "Flash",
+				"rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+				"rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+			}
+		},
+		"team": "CHAOS"
+	}
+]
